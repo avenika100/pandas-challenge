@@ -37,7 +37,7 @@ School name
 School type
 
 Total students
-
+       
 Total school budget
 
 Per student budget
